@@ -5,7 +5,7 @@ For ZX Spectrum and others retro mashines (maybe)
 
 Double FirmWare (прошивка) for CPLD EPM3032/64, EPM7032/64 Ver.3 Rev.0 (or Ver.4 Rev.0x)
 
-Двойная прошивка для ```CPLD EPM3032/64, EPM7032/64 Ver.3 Rev.0 (или Ver.4 Rev.0x)```
+Двойная прошивка для CPLD EPM3032/64, EPM7032/64 Ver.3 Rev.0 (или Ver.4 Rev.0x)
 
 ```Ver.3 added 5 Bit R/W in CPLD```
 
@@ -15,9 +15,9 @@ Double FirmWare (прошивка) for CPLD EPM3032/64, EPM7032/64 Ver.3 Rev.0 (
 
 ```В версии 4 добавлено 8 бит R/W в CPLD.```
 
-Versions switch of PIN 2 CPLD (to default PIN 2 connected the gnd)
+Versions switch of PIN 2 CPLD (to default PIN 2 connected the gnd, to switch the version you need to connect the 2nd pin to the CPLD power supply)
 
-Переключатель версий PIN 2 CPLD (по умолчанию PIN 2 подключен к земле)
+Переключатель версий PIN 2 CPLD (по умолчанию PIN 2 подключен к земле, для переключения Версии нужно 2й пин подключить к питанию CPLD)
 
 At the moment there is no need (to cut tracks) to switch versions from 3rd to 4th, this may be necessary if the author of new versions (@LW_aka_PLM) ProfROM (https://t.me/ZS_ProfRom/120) requires this from you
 
