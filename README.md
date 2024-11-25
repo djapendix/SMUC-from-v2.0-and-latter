@@ -33,5 +33,7 @@ At the moment there is no need (to cut tracks) to switch versions from 3rd to 4t
 ![smuc 2 1c](https://github.com/user-attachments/assets/5e6a1542-2562-445a-92f9-136b0f2a2348)
 
 
+![image](https://github.com/user-attachments/assets/4a72540d-d81d-4866-a7c4-79a64b20d7a3)
+
 
 
