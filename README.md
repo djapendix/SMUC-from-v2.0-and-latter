@@ -21,9 +21,10 @@ Versions switch of PIN 2 CPLD (to default PIN 2 connected the gnd, to switch the
 
 At the moment there is no need (to cut tracks) to switch versions from 3rd to 4th, this may be necessary if the author of new versions (@LW_aka_PLM) ProfROM (https://t.me/ZS_ProfRom/120) requires this from you
 
-В данный момент нет необходимости (резать дорожки) в переключении версий с 3й на 4ю, это может понадобиться если автор новых версий (@LW_aka_PLM) ProfROM (https://t.me/ZS_ProfRom/120) потребует это от Вас
+В данный момент нет необходимости (резать дорожки) в переключении версий с 3й на 4ю, это может понадобиться если автор [LW_aka_PLM](https://t.me/LW_aka_PLM) новых версий ProfROM (https://t.me/ZS_ProfRom/120) потребует это от Вас
 
-Прошить можно, повлиять на работоспособность в худшую сторону не должно (глобальных тестов не проводилось)
+Прошить можно, повлиять на работоспособность в худшую сторону не должно, стандартная функциональность SMUC 2.0 и выше не изменена, добавлены дополнительные биты для хранения информации по заказу [@LW_aka_PLM](https://t.me/LW_aka_PLM) (глобальных тестов не проводилось)
+Прошивка основана на версии SMUC 2
 
 
 ![photo_5341667585453844225_y](https://github.com/user-attachments/assets/cca05ec9-b649-41d8-9829-ed1a59feef68)
