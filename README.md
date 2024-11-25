@@ -19,7 +19,7 @@ Versions switch of PIN 2 CPLD (to default PIN 2 connected the gnd)
 
 Переключатель версий PIN 2 CPLD (по умолчанию PIN 2 подключен к земле)
 
-At the moment there is no need to switch versions from 3rd to 4th, this may be necessary if the author of new versions (@LW_aka_PLM) ProfROM (https://t.me/ZS_ProfRom/120) requires it from you
+At the moment there is no need (to cut tracks) to switch versions from 3rd to 4th, this may be necessary if the author of new versions (@LW_aka_PLM) ProfROM (https://t.me/ZS_ProfRom/120) requires this from you
 
 В данный момент нет необходимости (резать дорожки) в переключении версий с 3й на 4ю, это может понадобиться если автор новых версий (@LW_aka_PLM) ProfROM (https://t.me/ZS_ProfRom/120) потребует это от Вас
 
@@ -27,4 +27,11 @@ At the moment there is no need to switch versions from 3rd to 4th, this may be n
 
 
 ![photo_5341667585453844225_y](https://github.com/user-attachments/assets/cca05ec9-b649-41d8-9829-ed1a59feef68)
+
 ![smuc](https://github.com/user-attachments/assets/85ed2a83-495f-4218-b6f5-9f5989b8fc08)
+
+![smuc 2 1c](https://github.com/user-attachments/assets/5e6a1542-2562-445a-92f9-136b0f2a2348)
+
+
+
+
