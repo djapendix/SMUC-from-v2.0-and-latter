@@ -7,10 +7,10 @@ Double FirmWare (прошивка) for CPLD EPM3032/64, EPM7032/64 Ver.3 Rev.0 (
 
 Двойная прошивка для CPLD EPM3032/64, EPM7032/64 Ver.3 Rev.0 (или Ver.4 Rev.0x)
 
-'''Ver.3 added 5 Bit R/W in CPLD'''
-'''Ver.4 added 8 Bit R/W in CPLD'''
-'''В версии 3 добавлено 5 бит R/W в CPLD.'''
-'''В версии 4 добавлено 8 бит R/W в CPLD.'''
+```Ver.3 added 5 Bit R/W in CPLD```
+```Ver.4 added 8 Bit R/W in CPLD```
+```В версии 3 добавлено 5 бит R/W в CPLD.```
+```В версии 4 добавлено 8 бит R/W в CPLD.```
 
 Versions switch of PIN 2 CPLD (to default PIN 2 connected the gnd)
 
